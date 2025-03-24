@@ -1,0 +1,8 @@
+pillow
+opencv-python
+tensorflow
+numpy
+ipython
+twilio
+tensorflow-object-detection-api
+six
